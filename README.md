@@ -100,7 +100,7 @@ root@CONTAINER_ID:/prednet# ./main_jaad_prednet_train_256_MTP.py
 
 ## License
 
-This source code is licensed under the license found in the [`LICENSE`](LICENSE) file in the root directory of this source tree.
+This source code is licensed under the license found in the License.txt file in the root directory of this source tree.
 
 This product is Copyright (c) 2020 X. Du, R. Vasudevan, and M. Johnson-Roberson. All rights reserved.
 
