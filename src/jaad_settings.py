@@ -63,7 +63,7 @@ X_test_images_MaskRCNN_py3_dir   = weights_dir + 'X_test_images_MaskRCNN/python3
 
 if not os.path.exists(X_hat_images_MaskRCNN_dir):          os.mkdir(X_hat_images_MaskRCNN_dir)
 if not os.path.exists(X_test_images_MaskRCNN_dir):         os.mkdir(X_test_images_MaskRCNN_dir)
-if not os.path.exists(X_hat_images_openpose_json_dir):     os.mkdir(X_test_images_openpose_json_dir)
+if not os.path.exists(X_hat_images_openpose_json_dir):     os.mkdir(X_hat_images_openpose_json_dir)
 if not os.path.exists(X_test_images_openpose_json_dir):    os.mkdir(X_test_images_openpose_json_dir)
 if not os.path.exists(X_hat_images_openpose_dir):          os.mkdir(X_hat_images_openpose_dir)
 if not os.path.exists(X_test_images_openpose_dir):         os.mkdir(X_test_images_openpose_dir)
