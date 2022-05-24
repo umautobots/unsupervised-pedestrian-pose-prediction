@@ -85,7 +85,7 @@ Compute RMSE of joint locations in skeleton poses.
 ```
 docker build -t tf3 docker_prednet_py3/
 ./docker_prednet_py3/run.sh
-root@CONTAINER_ID:/prednet# ./compute_rmse_openpose_jaad.py 
+root@CONTAINER_ID:/prednet# ./compute_rmse_pose_jaad.py 
 ```
 
 ### Step 6: Multiple-Timestep Prediction (MTP) (optional)
